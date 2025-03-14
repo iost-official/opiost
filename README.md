@@ -1,18 +1,18 @@
-# opBNB - High-performance layer 2 solution
+# opIOST - High-performance layer 2 solution
 
-The opBNB network is the Layer 2 scaling solution for the BNB Smart Chain(BSC) powered by bedrock version of [Optimism OP Stack](https://docs.optimism.io/stack/getting-started).
+The opIOST network is the Layer 2 scaling solution for the BNB Smart Chain(BSC) powered by bedrock version of [Optimism OP Stack](https://docs.optimism.io/stack/getting-started).
 
 It works by offloading transaction processing and resource usage from the BNB Smart Chain, while still posting data to the underlying network. Users interact with the opBNB network by depositing funds from BSC and using applications and contracts on opBNB. At its core, opBNB allows users to deposit and withdraw funds, use smart contracts, and view network data with high throughput and low fees. By leveraging Layer 2, opBNB is able to scale beyond the constraints of the BNB Smart Chain and provide an improved experience for users.
 
 ## Comparison
 
-Besides the [differentiators of OP Stack](https://docs.optimism.io/stack/differences), opBNB is the solution that we aim to provide the best optimistic rollup solution on the BSC.
+Besides the [differentiators of OP Stack](https://docs.optimism.io/stack/differences), opIOST is the solution that we aim to provide the best optimistic rollup solution on the BSC.
 
 - Capacity can reach to 100m gas per second, which is much higher than other layer 2 solutions on the Ethereum.
 - Gas fee of transfer can reach as low as $0.005 on average.
 - block time is 1 second.
 
-| **Parameter**                         | **opBNB value** | **Optimism value** | **Ethereum value (for reference)** |
+| **Parameter**                         | **opIOST value** | **Optimism value** | **Ethereum value (for reference)** |
 | ------------------------------------- | --------------- | ------------------ | ---------------------------------- |
 | Block gas limit                       | 100,000,000 gas | 30,000,000 gas     | 30,000,000 gas                     |
 | Block gas target                      | 50,000,000      | 5,000,000 gas      | 15,000,000 gas                     |
@@ -21,10 +21,6 @@ Besides the [differentiators of OP Stack](https://docs.optimism.io/stack/differe
 | Maximum base fee increase (per block) | 12.5%           | 10%                | 12.5%                              |
 | Maximum base fee decrease (per block) | 12.5%           | 2%                 | 12.5%                              |
 | Block time in seconds                 | 1               | 2                  | 12                                 |
-
-## Documentation
-
-If you want to build on top of opBNB, refer to the [opBNB Doc](https://docs.bnbchain.org/opbnb-docs).
 
 ## Community
 
@@ -35,7 +31,7 @@ You can also join the conversation, connect with other projects, and ask questio
 ## Directory Structure
 
 <pre>
-~~ opBNB ~~
+~~ opIOST ~~
 ├── <a href="./packages">packages</a>
 │   └── <a href="./packages/contracts-bedrock">contracts-bedrock</a>: Bedrock smart contracts.
 ├── <a href="./op-bindings">op-bindings</a>: Go bindings for Bedrock smart contracts.
