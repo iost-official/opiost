@@ -2,7 +2,7 @@
 
 The opIOST network is the Layer 2 scaling solution for the BNB Smart Chain(BSC) powered by bedrock version of [Optimism OP Stack](https://docs.optimism.io/stack/getting-started).
 
-It works by offloading transaction processing and resource usage from the BNB Smart Chain, while still posting data to the underlying network. Users interact with the opBNB network by depositing funds from BSC and using applications and contracts on opBNB. At its core, opBNB allows users to deposit and withdraw funds, use smart contracts, and view network data with high throughput and low fees. By leveraging Layer 2, opBNB is able to scale beyond the constraints of the BNB Smart Chain and provide an improved experience for users.
+It works by offloading transaction processing and resource usage from the BNB Smart Chain, while still posting data to the underlying network. Users interact with the opIOST network by depositing funds from BSC and using applications and contracts on opIOST. At its core, opIOST allows users to deposit and withdraw funds, use smart contracts, and view network data with high throughput and low fees. By leveraging Layer 2, opIOST is able to scale beyond the constraints of the BNB Smart Chain and provide an improved experience for users.
 
 ## Comparison
 
